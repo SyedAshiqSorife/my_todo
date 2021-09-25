@@ -8,6 +8,12 @@ Later i want to add the reminder option and also push notification option
 
 # Ui of application 
 ![img_6](https://user-images.githubusercontent.com/57150267/134779058-9b1d6a16-c710-445e-93ef-4831d790ac80.jpg)
+![img_5](https://user-images.githubusercontent.com/57150267/134779523-f0ab3d90-ed11-43a8-b3f6-fb6af139ae19.jpg)
+![img_4](https://user-images.githubusercontent.com/57150267/134779525-fb74167d-3673-477e-b776-eb411e5f121a.jpg)
+![img_3](https://user-images.githubusercontent.com/57150267/134779534-e6dad50a-f47a-4abc-89f7-b79a81feb338.jpg)
+![img_2](https://user-images.githubusercontent.com/57150267/134779540-3c21cf7a-e1c2-4682-a532-dc5e3f9d2184.jpg)
+![img_1](https://user-images.githubusercontent.com/57150267/134779546-8cef7ad6-5dd7-49a3-8e52-b9e3a767b3c7.jpg)
+
 
 ## Getting Started
 
